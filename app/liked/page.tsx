@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import Image from "next/image";
 import LikedContent from "./components/LikedContent";
 
-export const revaildate = 0;
+
 
 const Liked = async() =>{
 
